@@ -1,0 +1,17 @@
+body {
+	background-color: blanchedalmond;
+}
+.row1 {
+	display: inline;
+}
+.row2 {
+	display: inline;
+}
+.row3 {
+	display: inline;
+}
+#image {
+	height: 200px;
+	width: 200px;
+	padding: 30px;
+}
